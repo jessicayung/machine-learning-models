@@ -11,3 +11,8 @@ A general template that includes:
 
 ## 2. Debating Motions Classifier:
 Classifies motions into categories such as 'Economics' and 'Politics' using Bag of Words and Multinomial Naive Bayes.
+
+## TODOs:
+- Write class for training ML models
+- Write class for training Keras models
+- Write class or tool for grid-searching models and recording results
